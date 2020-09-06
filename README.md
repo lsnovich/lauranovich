@@ -22,6 +22,7 @@ Senior Technical Writer
 
 Dates Employed Feb 2018 - present
 
+Responisbilities include:
 * Write and edit both open source and enterprise documentation.
 * Document APIs, 
 * Maintain web content and review contributions from developers.
@@ -33,6 +34,7 @@ Senior Technical Writer
 
 Dates Employed Feb 2016 – Jan 2018
 
+Responsibilities included:
 * Responsible for enterprise level security documentation and desktop and process analytics documentation. 
 * Work with developers, system architects, support, field engineers, UX team, QA, etc. to align customer requirements, features, and documentation needs.
 * Skilled in Agile / Scrum development environments. 
