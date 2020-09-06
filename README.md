@@ -10,7 +10,7 @@ I work in a Docs as Code Philosophy and teach what I know to anyone willing to l
 Experience includes template and style guide design, user-stories and team management.  
 I quickly research and learn new technology.  I am a professional and proficient writer with a flair for desktop publishing and page design.
 
-I create and understands complex architecture diagrams and have experience in communication, security, authentication protocols, virtualization, etc. 
+I create and understand complex architecture diagrams and have experience in communication, security, authentication protocols, virtualization, etc. 
 
 Tool Chest includes Madcap Flare, Jira/Confluence, Git/TFS, XML, DocBook, FrameMaker, MS Office Suite, WebWorks, Visio, CorelDraw and More!
 
