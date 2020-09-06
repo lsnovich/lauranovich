@@ -18,8 +18,19 @@ Certified RHCSA - Red Hat Certified System Administrator
 # Experience
 
 ## ScyllaDB 
+Senior Technical Writer
+Dates Employed Feb 2018 - present
 
-* Write and edit both open source and Enterprise documentation. 
+* Write and edit both open source and enterprise documentation.
+* Document APIs, 
 * Maintain web content and review contributions from developers.
 * Manage outsourced freelancers and projects
 * Toolchest includes: GitHub, Sphinx, Restructured Text, CQL, AWS, GCE, all on Fedora
+
+## Verint CES (Customer Engagement Systems)
+Senior Technical Writer  
+Dates Employed Feb 2016 – Jan 2018
+
+* Responsible for enterprise level security documentation and desktop and process analytics documentation. 
+* Work with developers, system architects, support, field engineers, UX team, QA, etc. to align customer requirements, features, and documentation needs.
+* Skilled in Agile / Scrum development environments. 
