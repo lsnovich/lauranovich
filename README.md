@@ -20,7 +20,7 @@ Certified RHCSA - Red Hat Certified System Administrator
 ## ScyllaDB 
 Senior Technical Writer
 
-Dates Employed Feb 2018 - present
+**Dates Employed**: Feb 2018 - present
 
 Responisbilities include:
 * Write and edit both open source and enterprise documentation.
@@ -32,7 +32,7 @@ Responisbilities include:
 ## Verint CES (Customer Engagement Systems)
 Senior Technical Writer  
 
-Dates Employed Feb 2016 – Jan 2018
+**Dates Employed**: Feb 2016 – Jan 2018
 
 Responsibilities included:
 * Responsible for enterprise level security documentation and desktop and process analytics documentation. 
