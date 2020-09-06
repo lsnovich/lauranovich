@@ -29,6 +29,11 @@ Responisbilities include:
 * Manage outsourced freelancers and projects
 * Toolchest includes: GitHub, Sphinx, Restructured Text, CQL, AWS, GCE, all on Fedora
 
+Where to find my work? 
+* [Scylla Docs](https://docs.scylladb.com)
+* [My Git Profile](https://github.com/lauranovich)
+
+
 ## Verint CES (Customer Engagement Systems)
 Senior Technical Writer  
 
