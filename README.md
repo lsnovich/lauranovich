@@ -1,4 +1,6 @@
-# Laura Novich Content Engineer
+# Laura Novich 
+
+Technical Documentation Manager at ScyllaDB
 
 # Summary
 
@@ -12,3 +14,12 @@ Tool Chest includes Madcap Flare, Jira/Confluence, Git/TFS, XML, DocBook, FrameM
 
 Trainer and Instructional Designer
 Certified RHCSA - Red Hat Certified System Administrator
+
+# Experience
+
+## ScyllaDB 
+
+* Write and edit both open source and Enterprise documentation. 
+* Maintain web content and review contributions from developers.
+* Manage outsourced freelancers and projects
+* Toolchest includes: GitHub, Sphinx, Restructured Text, CQL, AWS, GCE, all on Fedora
