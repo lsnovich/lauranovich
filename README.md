@@ -23,9 +23,9 @@ Senior Technical Writer
 **Dates Employed**: Feb 2018 - present
 
 Responisbilities include:
-* Write and edit both open source and enterprise documentation.
-* Document APIs, 
-* Maintain web content and review contributions from developers.
+* Write maintain, and edit all documentation 
+* Migrate content to reside in the same repo as code ("docs as code")
+* Maintain web content and review contributions from developers
 * Manage outsourced freelancers and projects
 * Toolchest includes: GitHub, Sphinx, Restructured Text, CQL, AWS, GCE, all on Fedora
 
