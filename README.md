@@ -1,6 +1,7 @@
 # Laura Novich 
 
 Technical Documentation Manager at ScyllaDB
+contact me at lsnovich@gmail.com
 
 # Summary
 
