@@ -2,7 +2,7 @@
 
 Technical Documentation and Community Manager
 
-contact me at lsnovich@gmail.com
+Contact me at lsnovich@gmail.com
 
 # Summary
 
