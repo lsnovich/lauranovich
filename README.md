@@ -36,7 +36,7 @@ Responisbilities include:
 Where to find my work? 
 * [Scylla Docs](https://docs.scylladb.com)
 * [My Git Profile](https://github.com/lauranovich)
-
+* [Interview](https://www.scylladb.com/2019/06/13/whats-hot-in-scylla-docs/)
 
 ## Verint CES (Customer Engagement Systems)
 Senior Technical Writer  
@@ -61,4 +61,10 @@ Content Engineer
 * Package Maintainer for Fedora KVM Docs
 * RHCSA - Red Hat Certified System Administrator
 * Present at technical confrences
+
+Where to find my work?
+* [Open Source Magazine](https://opensource.com/users/lnovich)
+* [Fedora](https://fedoraproject.org/wiki/User:Lnovich)
+* [Red Hat](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_getting_started_guide/index)
+
 
