@@ -67,4 +67,16 @@ Where to find my work?
 * [Fedora](https://fedoraproject.org/wiki/User:Lnovich)
 * [Red Hat](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_getting_started_guide/index)
 
+#Hello!
 
+My name is <name>.
+This is my first exercise creating a repo.
+I will add more information here as time goes on. 
+
+In this file, I will learn markdown. I will learn it by:
+
+* Practicing
+* Trial and error
+* Copying examples and seeing their output.
+
+I will use [this reference] (https://guides.github.com/features/mastering-markdown/) as a guide.
