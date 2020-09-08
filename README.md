@@ -47,3 +47,18 @@ Responsibilities included:
 * Responsible for enterprise level security documentation and desktop and process analytics documentation. 
 * Work with developers, system architects, support, field engineers, UX team, QA, etc. to align customer requirements, features, and documentation needs.
 * Skilled in Agile / Scrum development environments. 
+
+## Red Hat (KVM Team)
+Content Engineer
+
+**Dates Employed**: Dec 2011 Jan 2016
+
+* Content Engineer and team leader for RHEL platform Virtualization Documentation
+* Project Management and assignment of tasks to the writing team
+* Strategic planning of documentation requirements for present and future releases
+* Writer of technical whitepapers and joint projects with strategic Red Hat partners
+* Provide documentation for Open Source upstream projects such as Fedora
+* Package Maintainer for Fedora KVM Docs
+* RHCSA - Red Hat Certified System Administrator
+* Present at technical confrences
+
