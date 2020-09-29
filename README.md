@@ -24,7 +24,7 @@ Certified RHCSA - Red Hat Certified System Administrator
 ## ScyllaDB 
 Senior Technical Writer
 
-**Dates Employed**: Feb 2018 - present
+**Dates Employed**: Feb 2018 &ndash; present
 
 Responisbilities include:
 * Write maintain, and edit all documentation 
@@ -51,7 +51,7 @@ Responsibilities included:
 ## Red Hat (KVM Team)
 Content Engineer
 
-**Dates Employed**: Dec 2011 Jan 2016
+**Dates Employed**: Dec 2011 &ndash; Jan 2016
 
 * Content Engineer and team leader for RHEL platform Virtualization Documentation
 * Project Management and assignment of tasks to the writing team
