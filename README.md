@@ -1,6 +1,6 @@
 # Laura Novich 
 
-<img src="headshot.jpg" width="100" height="100"/>
+<img src="headshot.jpg" width="100" height="120"/>
 
 Technical Documentation and Community Manager
 
