@@ -41,7 +41,7 @@ Where to find my work?
 ## Verint CES (Customer Engagement Systems)
 Senior Technical Writer  
 
-**Dates Employed**: Feb 2016 – Jan 2018
+**Dates Employed**: Feb 2016 &ndash; Jan 2018
 
 Responsibilities included:
 * Responsible for enterprise level security documentation and desktop and process analytics documentation. 
