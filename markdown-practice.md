@@ -1,8 +1,8 @@
 # Practice Markdown
 # Headings
-# Heading 1 {#head1}
+# Heading 1 {#heading-1}
 Use \# for headings 1 for heading 1, 2 for heading 2, and so on. 
-add ``{#custom-id}`` to add an anchor for linking
+
 
 ## Heading 2
 ### Heading 3
@@ -72,7 +72,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 ``[alt-text](link)`` 
 
 For example
-[Link to Heading 1](#Heading-1)
+[Link to Heading 1](heading-1)
 
     
     
