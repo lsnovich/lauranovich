@@ -1,6 +1,6 @@
 # Laura Novich 
 
-<img src="headshot.png"/>
+![headshot](headshot.png)
 
 Technical Documentation and Community Manager
 
