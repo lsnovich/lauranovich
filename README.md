@@ -1,6 +1,6 @@
 # Laura Novich 
 
-<img src="headshot.jpg" width="100" height="120"/>
+<img src="2021-02-08.jpg" width="400" height="350"/>
 
 Technical Documentation and Community Manager
 
@@ -23,10 +23,17 @@ Certified RHCSA - Red Hat Certified System Administrator
 
 # Experience
 
+## Zoomin Software
+Technical Communication Manager
+**Dates Employed**: Nov 2021 &ndash; Present
+Responisbilities include:
+* Adminstration of the Zoomin Documetnation Portal (users and content management)
+* Hire technical writing team
+* Documentation Roadmaps, procedures, workflows, styleguides, and tooling
+* Assign taks, mentor, and assist writers on the team
 ## ScyllaDB 
-Senior Technical Writer
-
-**Dates Employed**: Feb 2018 &ndash; present
+Documentation Community Manager 
+**Dates Employed**: Feb 2018 &ndash; Oct 2021
 
 Responisbilities include:
 * Write maintain, and edit all documentation 
