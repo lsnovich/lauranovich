@@ -9,7 +9,7 @@ Contact me at lsnovich@gmail.com
 
 # Summary
 
-1. 18+ years of experience documenting everything from quick start guides to APIs.   
+* 18+ years of experience documenting everything from quick start guides to APIs.   
    a. Open Source, Linux, and Git are my tools of the trade.   
    b. I work in a Docs as Code Philosophy and teach what I know to anyone willing to listen.   
    c. My experience includes template and style guide design, user-stories, and team management.    
