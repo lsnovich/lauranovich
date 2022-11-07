@@ -25,17 +25,18 @@ Certified RHCSA - Red Hat Certified System Administrator
 
 # Experience
 
-## Zoomin Software
-Technical Communication Manager
-**Dates Employed**: Nov 2021 &ndash; Present
+## Zoomin Software  
+*Technical Communication Manager*  
+**Dates Employed**: Nov 2021 &ndash; Present  
+
 Responisbilities include:
 * Adminstration of the Zoomin Documetnation Portal (users and content management)
 * Hire technical writing team
 * Documentation Roadmaps, procedures, workflows, styleguides, and tooling
 * Assign taks, mentor, and assist writers on the team
-## ScyllaDB 
-Documentation Community Manager 
-**Dates Employed**: Feb 2018 &ndash; Oct 2021
+## ScyllaDB   
+*Documentation Community Manager*   
+**Dates Employed**: Feb 2018 &ndash; Oct 2021  
 
 Responisbilities include:
 * Write maintain, and edit all documentation 
@@ -49,21 +50,20 @@ Where to find my work?
 * [My Git Profile](https://github.com/lauranovich)
 * [Interview](https://www.scylladb.com/2019/06/13/whats-hot-in-scylla-docs/)
 
-## Verint CES (Customer Engagement Systems)
-Senior Technical Writer  
-
-**Dates Employed**: Feb 2016 &ndash; Jan 2018
+## Verint CES (Customer Engagement Systems)  
+*Senior Technical Writer*    
+**Dates Employed**: Feb 2016 &ndash; Jan 2018  
 
 Responsibilities included:
 * Responsible for enterprise level security documentation and desktop and process analytics documentation. 
 * Work with developers, system architects, support, field engineers, UX team, QA, etc. to align customer requirements, features, and documentation needs.
 * Skilled in Agile / Scrum development environments. 
 
-## Red Hat (KVM Team)
-Content Engineer
+## Red Hat (KVM Team)  
+Content Engineer  
+**Dates Employed**: Dec 2011 &ndash; Jan 2016  
 
-**Dates Employed**: Dec 2011 &ndash; Jan 2016
-
+Responsibilities included:
 * Content Engineer and team leader for RHEL platform Virtualization Documentation
 * Project Management and assignment of tasks to the writing team
 * Strategic planning of documentation requirements for present and future releases
