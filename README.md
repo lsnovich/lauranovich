@@ -1,8 +1,7 @@
 # Laura Novich 
 
-Technical Documentation and Community Manager
-
-contact me at lsnovich@gmail.com
+Technical Documentation and Community Manager  
+Contact me at lsnovich@gmail.com
 
 ![headshot](headshot.png)
 
@@ -10,15 +9,22 @@ contact me at lsnovich@gmail.com
 
 # Summary
 
-- 18+ years of experience documenting everything from quick start guides to APIs. 
-- Open Source, Linux, and Git are my tools of the trade. 
-- I work in a Docs as Code Philosophy and teach what I know to anyone willing to listen. 
-- My experience includes template and style guide design, user-stories, and team management.  
-- I quickly research and learn new technology.  I am a professional and proficient writer with a flair for desktop publishing and page design.
+1. 18+ years of experience documenting everything from quick start guides to APIs.   
+   a. Open Source, Linux, and Git are my tools of the trade.   
+   b. I work in a Docs as Code Philosophy and teach what I know to anyone willing to listen.   
+   c. My experience includes template and style guide design, user-stories, and team management.    
+2. I quickly research and learn new technology.  I am a professional and proficient writer with a flair for desktop publishing and page design.  
 
 I create and understand complex architecture diagrams and have experience in communication, security, authentication protocols, virtualization, etc. 
 
-Tool Chest includes Madcap Flare, Jira/Confluence, Git/TFS, XML, DocBook, FrameMaker, MS Office Suite, WebWorks, Visio, CorelDraw and More!
+Tool Chest includes:
+* Madcap Flare
+* Jira/Confluence
+* Git/TFS
+* XML/DITA and DocBook
+* FrameMaker
+* MS Office Suite
+* Visio, CorelDraw and More!
 
 Trainer and Instructional Designer
 Certified RHCSA - Red Hat Certified System Administrator
