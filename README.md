@@ -11,7 +11,7 @@ Contact me at lsnovich@gmail.com
 
 * 18+ years of experience documenting everything from quick start guides to APIs.   
 * Open Source, Linux, and Git are my tools of the trade.   
-   b. I work in a Docs as Code Philosophy and teach what I know to anyone willing to listen.   
+* I work in a Docs as Code Philosophy and teach what I know to anyone willing to listen.   
    c. My experience includes template and style guide design, user-stories, and team management.    
 2. I quickly research and learn new technology.  I am a professional and proficient writer with a flair for desktop publishing and page design.  
 
