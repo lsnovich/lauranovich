@@ -2,10 +2,7 @@
 
 Technical Documentation and Community Manager  
 Contact me at lsnovich@gmail.com
-
-<img src="https://media.licdn.com/dms/image/C4D03AQFoLLKyxXhd5Q/profile-displayphoto-shrink_400_400/0/1635847485319?e=1680134400&v=beta&t=d4KteyIN3jfKSOqpnpfGgF4wdOaq6xPpZqxNw8Y53ug" alt="drawing" width="200"/>
-
-
+![headshot](headshot.png | width 100)
 
 # Summary
 
