@@ -3,7 +3,7 @@
 Technical Documentation and Community Manager  
 Contact me at lsnovich@gmail.com  
 
-![headshot](headshot2.png | width 100)
+![headshot](headshot2.png | width=100)
 
 # Summary
 
