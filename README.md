@@ -1,13 +1,14 @@
 # Laura Novich 
 
-Technical Documentation and Community Manager  
+Technical Documentation and Community Manager 
+ITCQF Certified
 Contact me at lsnovich@gmail.com  
 
 ![headshot](headshot2.png)
 
 # Summary
 
-* 18+ years of experience documenting everything from quick start guides to APIs.   
+* 20+ years of experience documenting everything from quick start guides to APIs.   
 * Open Source, Linux, and Git are my tools of the trade.   
 * I work in a Docs as Code Philosophy and teach what I know to anyone willing to listen.   
 * My experience includes template and style guide design, user-stories, and team management.    
