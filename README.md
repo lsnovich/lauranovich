@@ -1,8 +1,8 @@
 # Laura Novich 
 
-Technical Documentation and Community Manager 
-ITCQF Certified
-Contact me at lsnovich@gmail.com  
+Technical Documentation and Community Manager   
+[ITCQF](https://itcqf.org) Certified  
+Contact me at lsnovich@gmail.com    
 
 ![headshot](headshot2.png)
 
