@@ -1,7 +1,8 @@
 # Laura Novich 
 
 Technical Documentation and Community Manager  
-Contact me at lsnovich@gmail.com
+Contact me at lsnovich@gmail.com  
+
 ![headshot](headshot2.png | width 100)
 
 # Summary
