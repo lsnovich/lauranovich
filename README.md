@@ -35,9 +35,13 @@ Certified RHCSA - Red Hat Certified System Administrator
 
 Responisbilities include:
 * Adminstration of the Zoomin Documetnation Portal (users and content management)
-* Hire technical writing team
+* Manage technical writing team
 * Documentation Roadmaps, procedures, workflows, styleguides, and tooling
 * Assign taks, mentor, and assist writers on the team
+* Templates and training for the product team
+* Doubled the number of topics in a year
+* Ungated the portal opening content to all
+
 ## ScyllaDB   
 *Documentation Community Manager*   
 **Dates Employed**: Feb 2018 &ndash; Oct 2021  
